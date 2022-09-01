@@ -1,0 +1,10 @@
+body
+{
+    background: url("https://i.postimg.cc/8C4GBcvh/photo-1604937455095-ef2fe3d46fcd.jpg");
+}
+    .login_div1 , .login_div2
+    {
+       background: linear-gradient(white,wheat); 
+       padding: 10px;
+       border-radius: 15px;
+    }
